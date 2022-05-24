@@ -41,12 +41,6 @@ link to live demo
 - GitHub: [@Favourezeugwa](https://github.com/Favourezeugwa)
 - LinkedIn: [Favour Amarachi Ezeugwa](https://www.linkedin.com/in/favour-amarachi-ezeugwa-a5bb31149/)
 
-👤 **Abdellah Belkaid**
-
-- GitHub: [@mr-abdellah](https://github.com/mr-abdellah)
-- Twitter: [@belkaiduus](https://twitter.com/belkaiduus)
-- LinkedIn: [belkaidus](https://linkedin.com/in/belkaidus)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
