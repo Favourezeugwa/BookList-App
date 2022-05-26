@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awesome-Books
+# BOOKLIST-APP
 
-This project aims at using JavaScript `classes` to build a medium-fidelity wireframe such that a user can `add` or `remove` books in the application.
+This is a personal project that aims at using JavaScript `classes` to build a medium-fidelity wireframe such that a user can `add` or `remove` books in the application.
 
 ## Live Demo
 
 link to live demo
 
-> Awesome books: Refractor to use JavaScript classes
+> BookList App: Refractor to use JavaScript classes
 
 ## Built With
 
@@ -51,6 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Brad Traversy
 - Hat tip to anyone who's code/resource was used
 - Inspiration
 - Microverse student community
