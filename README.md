@@ -6,7 +6,7 @@ This is a personal project that aims at using JavaScript `classes` to build a me
 
 ## Live Demo
 
-link to live demo
+[link to live demo](https://favourezeugwa.github.io/BookList-App/)
 
 > BookList App: Refractor to use JavaScript classes
 
@@ -51,7 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Brad Traversy
+- Brad Traversy 👍🏼
 - Hat tip to anyone who's code/resource was used
 - Inspiration
 - Microverse student community
