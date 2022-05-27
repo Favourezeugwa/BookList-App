@@ -21,7 +21,7 @@ This is a personal project that aims at using JavaScript `classes` to build a me
 
 - In the repository, copy the `SSH` code snippet for Awesome-book-2
 - clone into the repository by using `git clone` in the git bash terminal
-- cd into the repository `cd awesome-book-2`
+- cd into the repository `cd BookList-App`
 - open VScode terminal `code .`
 - Go live (live server)
 
